@@ -1,0 +1,10 @@
+{
+  "description": "This AI-driven platform predicts illegal dumping hotspots, enabling municipalities to proactively manage waste and prioritize cleanup efforts effectively.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
